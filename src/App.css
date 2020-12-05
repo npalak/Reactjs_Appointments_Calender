@@ -1,0 +1,12 @@
+.dx-scheduler-work-space.dx-scheduler-work-space-grouped:not(.dx-scheduler-agenda)
+  .dx-scheduler-date-table-cell {
+  border-left: 1px solid rgba(221, 221, 221, 0.6);
+  cursor: crosshair;
+  width: 120px;
+}
+
+/* .dx-scheduler-group-header, .dx-scheduler-header-panel, .dx-scheduler-time-panel {
+  font-size: 14px;
+  width: 60%;
+} */
+
