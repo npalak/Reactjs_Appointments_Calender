@@ -3,3 +3,6 @@
 ![Screenshot from 2020-12-05 13-06-36](https://user-images.githubusercontent.com/47910241/101237579-05b1d400-3700-11eb-8874-88b42a306080.png)
 ![Screenshot from 2020-12-05 13-06-44](https://user-images.githubusercontent.com/47910241/101237588-1b26fe00-3700-11eb-9b62-af88e1f03374.png)
 ![Screenshot from 2020-12-05 13-07-13](https://user-images.githubusercontent.com/47910241/101237589-1d895800-3700-11eb-9136-17a0bc29a071.png)
+
+If you want to delete particular appointments,then delete like this below image.
+![Screenshot from 2020-12-05 13-58-51](https://user-images.githubusercontent.com/47910241/101237864-13685900-3702-11eb-83be-0554bfb3dcfd.png)
